@@ -1,0 +1,11 @@
+#bibliografia {
+    text-align: center;
+}
+.headers{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: overline;
+}
+p {
+    background-color: aliceblue;
+    padding: 10px;
+}

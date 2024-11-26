@@ -1,0 +1,13 @@
+img {
+    height: 100px;
+    float: right;
+}
+span {
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#enlaces {
+    background-color: rgba(0, 0, 0, 0.53);
+    color: white;
+}

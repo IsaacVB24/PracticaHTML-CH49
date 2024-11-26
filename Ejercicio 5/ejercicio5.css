@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(55, 222, 166);
+}
+* {
+    float: right;
+    text-decoration: line-through;
+}

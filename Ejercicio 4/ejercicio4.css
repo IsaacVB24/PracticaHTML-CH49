@@ -1,0 +1,14 @@
+h3 {
+    text-align: center;
+}
+.noDecoration {
+    list-style-type: armenian;
+}
+#tituloFlautas {
+    background-image: url(flautas_de_pollo_y_queso_75905_600.webp);
+    padding: 100px;
+    font-size: xx-large;
+}
+.carreras {
+    list-style-type: square;
+}

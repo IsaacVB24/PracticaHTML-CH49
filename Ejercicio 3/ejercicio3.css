@@ -1,0 +1,15 @@
+img {
+    height: 75px;
+    float: right;
+}
+span {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li {
+    list-style-type: armenian;
+}
+h3 {
+    background-color: rgb(253, 204, 144);
+    padding: 5px;
+    text-align: center;
+}
